@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e496a57-0a6c-4951-ad36-3bdd1f1be9e6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Type and instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Type and instance.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Type and instance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Type and instance.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String_operations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/String_operations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -79,6 +88,7 @@
         <option value="$PROJECT_DIR$/Difference.py" />
         <option value="$PROJECT_DIR$/Division.py" />
         <option value="$PROJECT_DIR$/Type and instance.py" />
+        <option value="$PROJECT_DIR$/String_operations.py" />
       </list>
     </option>
   </component>
@@ -128,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Multiplication">
+  <component name="RunManager" selected="Python.String_operations">
     <configuration name="Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +193,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="SUM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="String_operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,24 +205,44 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Type and instance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Type and instance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.SUM" />
       <item itemvalue="Python.Division" />
       <item itemvalue="Python.Difference" />
       <item itemvalue="Python.Multiplication" />
+      <item itemvalue="Python.Type and instance" />
+      <item itemvalue="Python.String_operations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.String_operations" />
+        <item itemvalue="Python.Type and instance" />
         <item itemvalue="Python.Multiplication" />
         <item itemvalue="Python.Difference" />
         <item itemvalue="Python.Division" />
-        <item itemvalue="Python.SUM" />
       </list>
     </recent_temporary>
   </component>
@@ -288,6 +318,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String_operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
         </state>
       </provider>
     </entry>
