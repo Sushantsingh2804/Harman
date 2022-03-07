@@ -1,0 +1,3 @@
+String,length
+this is new string,18
+Second string,13
