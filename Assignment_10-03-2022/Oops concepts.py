@@ -44,5 +44,5 @@ print("---------------------------------------------------------------")
 Q = Quadlilateral(14, 32, 22, 14)
 print("Parameter of quadrilateral is -", R.Perimeter())
 print("Measurement of quadrilateral is- ")
-R.PrintSide()
+Q.PrintSide()
 
